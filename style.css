@@ -1,0 +1,15 @@
+h1 {
+    text-align:center
+}
+
+p {
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+
