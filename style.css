@@ -1,15 +1,21 @@
 h1 {
-    text-align:center
+    text-align:center;
+    color: black;
 }
 
 p {
     border: 2px solid red;
     border-radius: 5px;
+    color: black;
+
 }
 
 body {
-    background-color: cornflowerblue;
+    background-color: black;
     text-align: center;
+}
+div {
+    color: red;
 }
 
 
